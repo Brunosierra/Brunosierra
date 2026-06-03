@@ -62,7 +62,4 @@ Me chamo Bruno Sierra Segovia, tenho 19 anos e sou natural de Presidente Prudent
     title="PHP"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-          
-<br/>
-<br/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
