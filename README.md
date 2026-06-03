@@ -1,7 +1,7 @@
 ## Bruno
 **`Desenvolvedor Inciante`**
 
-Me chamo Bruno Sierra Segovia, tenho 19 anos e sou natural de Presidente Prudente- SP. Concluí o ensino médio no Mirella Pesce Desidere Profa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Toledo Prudente . Sou apaixonado por tecnologia e possuo meu Linkedin "[Dev em Dev](https://www.linkedin.com/in/bruno-sierra-segovia-a66243348/)".
+Me chamo Bruno Sierra Segovia, tenho 19 anos e sou natural de Presidente Prudente- SP. Concluí o ensino médio no Mirella Pesce Desidere Profa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Toledo Prudente . Sou apaixonado por tecnologia e possuo meu Linkedin "[Linkedin](https://www.linkedin.com/in/bruno-sierra-segovia-a66243348/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@brunosierr?sub_confirmation=1">
