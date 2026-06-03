@@ -8,7 +8,7 @@ Me chamo Bruno Sierra Segovia, tenho 19 anos e sou natural de Presidente Prudent
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribersUCkWU9oqq0tqaIvzfB9NPfAw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCkWU9oqq0tqaIvzfB9NPfAw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
 
@@ -61,7 +61,8 @@ Me chamo Bruno Sierra Segovia, tenho 19 anos e sou natural de Presidente Prudent
     alt="PHP" 
     title="PHP"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
 <br/>
 <br/>
